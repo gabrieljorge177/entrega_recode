@@ -1,3 +1,3 @@
-# backend_client
+Entrega do modúlo 5 - Recode
 
-API REST para um cadastro de clientes
+Agência de viagens feita com Spring e no modelo MVC.
